@@ -1,0 +1,1 @@
+Firstly we create a file in Bin folder of Linux User then we put the commands which is uploaded in repository and give the permission to exceute the file by writing chmod +x command.sh after that we run the commands to execute it.
